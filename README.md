@@ -6,7 +6,7 @@
 
 **Instituição**: EmbarcaTech - HBr
 
-**Brasília**, março de 2025
+*Brasília, março de 2025*
 
 ---
 
@@ -21,3 +21,14 @@ Este repositório reúne os projetos desenvolvidos ao longo do curso de Sistemas
 | Projeto | Descrição | Site |
 |---------|-----------| ---- |
 | <center><img src="assets/img/br_smartguia.png" alt="BR SmartGuia" width="120"/><br>[🛒 BR SmartGuia](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/tree/main/projects/BR%20Smart%20Guia)</center> | O BR SmartGuia é um dispositivo assistivo projetado para auxiliar pessoas com deficiência visual em ambientes urbanos e comerciais | https://gabrielrmg.github.io/EMBARCATECH/ |
+
+## 📝 Diário de Bordo (Reflexões e Aprendizados)
+
+| Semana     | Aprendizados |
+|------------|--------------|
+| Semana 1   | Entendi como funciona a comunicação I2C com displays OLED. |
+| Semana 2   | Consegui gerar som com diferentes frequências usando PWM. |
+
+
+## Licença
+GPL-3.0
