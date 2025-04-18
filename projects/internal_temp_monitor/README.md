@@ -10,14 +10,15 @@ Este projeto realiza a leitura da temperatura interna do microcontrolador RP2040
 ## 🧩 Estrutura do Código
 
 | Arquivo               | Descrição                                                                 |
-|-----------------------|---------------------------------------------------------------------------|
-| [`main.c`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/src/main.c) | Código principal responsável pela leitura da temperatura interna e exibição no OLED |
-| [`ssd1306.c`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/src/ssd1306.c) | Controle do display OLED SSD1306 via I2C                                |
-| [`ssd1306.h`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/src/ssd1306.h) | Cabeçalho da interface do display                                        |
-| [`font.c`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/src/font.c) | Fonte usada na renderização de caracteres                               |
-| [`font.h`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/src/font.h) | Cabeçalho com definição da fonte                                         |
-| [`pico_sdk_import.cmake`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/src/pico_sdk_import.cmake) | Importação do Raspberry Pi Pico SDK                                     |
-| [`CMakeLists.txt`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/src/CMakeLists.txt) | Configuração via CMake                                                  |
+|------------------------|--------------------------------------------------------------------------|
+| [`main.c`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/main.c) | Código principal responsável pela leitura da temperatura interna e exibição no OLED |
+| [`ssd1306.c`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/ssd1306.c) | Controle do display OLED SSD1306 via I2C |
+| [`ssd1306.h`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/ssd1306.h) | Cabeçalho da interface do display        |
+| [`font.c`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/font.c) | Fonte usada na renderização de caracteres |
+| [`font.h`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/font.h) | Cabeçalho com definição da fonte         |
+| [`pico_sdk_import.cmake`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/pico_sdk_import.cmake) | Importação do Raspberry Pi Pico SDK      |
+| [`CMakeLists.txt`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/internal_temp_monitor/CMakeLists.txt) | Configuração via CMake                   |
+
 
 
 ---
