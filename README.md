@@ -21,7 +21,7 @@ Este repositório reúne os projetos desenvolvidos ao longo do curso de Sistemas
 | Projeto | Descrição | Site |
 |---------|-----------| ---- |
 | <center><img src="assets/img/br_smartguia.png" alt="BR SmartGuia" width="120"/><br>[🛒 BR SmartGuia](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/tree/main/projects/BR%20Smart%20Guia)</center> | O BR SmartGuia é um dispositivo assistivo projetado para auxiliar pessoas com deficiência visual em ambientes urbanos e comerciais | https://gabrielrmg.github.io/EMBARCATECH/ |
-| 🕹️ [Joystick_read](projects/joystick_read) | Projeto para leitura de eixos analógicos e botão de joystick com exibição OLED | — |
+| 🕹️ [Joystick_read](projects/joystick_read) | Projeto para leitura de eixos analógicos e botão de joystick com exibição no display OLED e monitor serial| — |
 
 ## 📝 Diário de Bordo (Reflexões e Aprendizados)
 
