@@ -22,7 +22,7 @@ Este repositório reúne os projetos desenvolvidos ao longo do curso de Sistemas
 |---------|-----------| ---- |
 | <center><img src="assets/img/br_smartguia.png" alt="BR SmartGuia" width="120"/><br>[🛒 BR SmartGuia](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/tree/main/projects/BR%20Smart%20Guia)</center> | O BR SmartGuia é um dispositivo assistivo projetado para auxiliar pessoas com deficiência visual em ambientes urbanos e comerciais | https://gabrielrmg.github.io/EMBARCATECH/ |
 | 🕹️ [Joystick_read](projects/joystick_read) | Projeto para leitura de eixos analógicos e botão de joystick com exibição no display OLED e monitor serial| — |
-| ![⏳](https://upload.wikimedia.org/wikipedia/commons/3/3c/Hourglass_font_awesome.svg) | [Countdown_Display](projects/countdown_display) | Projeto que exibe contagem regressiva no display OLED após botão ser pressionado | — |
+| <img src="https://img.icons8.com/emoji/48/hourglass-not-done.png" width="24"/> [**Countdown_Display**](projects/countdown_display) | Projeto que exibe contagem regressiva no display OLED após botão ser pressionado | — |
 
 
 ## 📝 Diário de Bordo (Reflexões e Aprendizados)
