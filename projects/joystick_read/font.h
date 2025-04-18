@@ -3,6 +3,6 @@
 
 #include <stdint.h>
 
-extern const uint8_t font[96][5];  // <- Só a declaração (com extern)
+extern const uint8_t font[96][5];  
 
 #endif
