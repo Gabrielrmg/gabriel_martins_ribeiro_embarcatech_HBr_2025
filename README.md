@@ -28,7 +28,7 @@ Este repositório reúne os projetos desenvolvidos ao longo do curso de Sistemas
 | Semana     | Aprendizados |
 |------------|--------------|
 | Semana 1   | Entendi como funciona a comunicação I2C com displays OLED. |
-| Semana 2   | Consegui gerar som com diferentes frequências usando PWM. |
+| Semana 2   | Execução dos projetos propostos |
 
 
 ## Licença
