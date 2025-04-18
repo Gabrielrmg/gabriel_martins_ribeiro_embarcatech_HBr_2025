@@ -31,7 +31,8 @@ Este repositório reúne os projetos desenvolvidos ao longo do curso de Sistemas
 | Semana     | Aprendizados |
 |------------|--------------|
 | Semana 1   | Entendi como funciona a comunicação I2C com displays OLED. |
-| Semana 2   | Execução dos projetos propostos |
+| Semana 2   | Execução dos 3 projetos:  [Joystick_read](projects/joystick_read) , [Countdown_Display](projects/countdown_display) e [Internal_Temp_Monitor](projects/internal_temp_monitor)  |
+| Semana 3   | Commit dos 3 no GitHub|
 
 
 ## Licença
