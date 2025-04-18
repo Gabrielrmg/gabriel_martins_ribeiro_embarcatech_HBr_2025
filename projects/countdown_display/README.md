@@ -12,13 +12,15 @@ O acionamento é feito pelo botão A. Além disso, é registrado o número de ve
 
 A seguir, uma visão geral dos principais arquivos do projeto:
 
-| [`main.c`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/main.c) | Código principal do firmware responsável pela contagem regressiva |
-| [`ssd1306.c`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/ssd1306.c) | Funções para controle do display OLED SSD1306 |
-| [`ssd1306.h`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/ssd1306.h) | Cabeçalho com definições da interface OLED |
-| [`font.c`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/font.c) | Fontes utilizadas para exibição |
-| [`font.h`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/font.h) | Cabeçalho da fonte |
-| [`pico_sdk_import.cmake`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/pico_sdk_import.cmake) | Importação do Pico SDK |
-| [`CMakeLists.txt`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/CMakeLists.txt) | Configuração de build com CMake |
+| Arquivo               | Descrição                                                                 |
+|-----------------------|---------------------------------------------------------------------------|
+| [`main.c`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/main.c) | Código principal do firmware responsável pela contagem regressiva         |
+| [`ssd1306.c`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/ssd1306.c) | Funções para controle do display OLED SSD1306                            |
+| [`ssd1306.h`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/ssd1306.h) | Cabeçalho com definições da interface OLED                                |
+| [`font.c`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/font.c) | Fontes utilizadas para exibição                                           |
+| [`font.h`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/font.h) | Cabeçalho da fonte                                                        |
+| [`pico_sdk_import.cmake`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/pico_sdk_import.cmake) | Importação do Pico SDK                                                   |
+| [`CMakeLists.txt`](https://github.com/Gabrielrmg/gabriel_martins_ribeiro_embarcatech_HBr_2025/blob/main/projects/countdown_display/src/CMakeLists.txt) | Configuração de build com CMake                                          |
 
 
 ---
