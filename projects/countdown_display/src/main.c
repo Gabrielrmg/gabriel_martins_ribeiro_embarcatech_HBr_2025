@@ -1,6 +1,6 @@
 // === Project: Countdown with OLED using Raspberry Pi Pico W ===
 // Description: Displays a countdown timer on a 128x64 OLED screen with control via buttons
-// Author: Gabriel Martins Ribeiro | Date: 2025-04-15
+// Author: Gabriel Martins Ribeiro | Date: April 2025
 
 #include "pico/stdlib.h"                      // Standard Pico library
 #include "hardware/i2c.h"                      // I2C communication
