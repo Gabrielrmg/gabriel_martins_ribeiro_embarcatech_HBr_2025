@@ -11,16 +11,6 @@ O acionamento é feito pelo botão A. Além disso, é registrado o número de ve
   <img src="assets/img/countdown_display.jpg" alt="Contagem em execução" width="45%"/>
 </p>
 
-<p align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%"><strong>Mensagem inicial</strong></td>
-      <td align="center" width="50%"><strong>Contagem em execução</strong></td>
-    </tr>
-  </table>
-</p>
-
-
 
 ### 📸 Contagem finalizada (DONE !)
 
