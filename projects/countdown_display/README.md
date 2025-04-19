@@ -7,10 +7,11 @@ Este projeto realiza uma contagem regressiva, de 9 até 0 segundos, com exibiç�
 O acionamento é feito pelo botão A. Além disso, é registrado o número de vezes que o botão B foi pressionado dentro desse intervalo de 9 segundos.
 
 <p align="center">
-  <img src="assets/img/countdown_display_start.jpg" alt="Mensagem inicial" width="45%"/>
-  <img src="assets/img/countdown_display.jpg" alt="Contagem em execução" width="45%"/>
+  <img src="../../assets/img/countdown_display_start.jpg" alt="Mensagem inicial" width="45%"/>
+  <img src="../../assets/img/countdown_display.jpg" alt="Contagem em execução" width="45%"/>
 </p>
 
+---
 
 ### 📸 Contagem finalizada (DONE !)
 
