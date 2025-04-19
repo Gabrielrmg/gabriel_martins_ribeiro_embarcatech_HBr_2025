@@ -1,7 +1,9 @@
 # 🎮 Joystick Read
+**Autor:** Gabriel Martins Ribeiro<br>
+**Curso:** Residência Tecnológica em Sistemas Embarcados<br>
+**Instituição:** EmbarcaTech - HBr<br>
+Brasília, Abril de 2025
 
-**Autor:** Gabriel Martins Ribeiro  
-**Engenheiro Eletrônico – FCTE – UnB**
 
 Este projeto realiza a leitura dos eixos X e Y de um joystick analógico, além de detectar o acionamento do botão central. As informações são exibidas em tempo real tanto no terminal serial quanto em um display OLED 128x64 com controlador SSD1306 via protocolo I2C.
 
