@@ -3,10 +3,9 @@
 <p align="center">
   <img src="assets/img/Gabriel.jpg" alt="Gabriel Martins Ribeiro" width="150">
 </p>
-**Autor:** Gabriel Martins Ribeiro<br>
-**Curso:** Residência Tecnológica em Sistemas Embarcados<br>
-**Instituição:** EmbarcaTech - HBr<br>
-Brasília, Abril de 2025
+
+**Autor:** Gabriel Martins Ribeiro  
+ **Engenheiro Eletrônico - FCTE - UnB**  
 
 
 
