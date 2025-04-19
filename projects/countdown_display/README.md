@@ -1,4 +1,5 @@
 # ⏱️ Countdown Display
+![Contagem regressiva no display OLED](../../assets/img/countdown_display.jpg)
 
 **Autor:** Gabriel Martins Ribeiro  
 **Engenheiro Eletrônico – FCTE – UnB**
