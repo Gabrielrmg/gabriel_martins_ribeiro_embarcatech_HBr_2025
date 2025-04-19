@@ -1,7 +1,9 @@
 # ⏱️ Countdown Display
 
 **Autor:** Gabriel Martins Ribeiro  
-**Engenheiro Eletrônico – FCTE – UnB**
+**Curso:** Residência Tecnológica em Sistemas Embarcados
+**Instituição:** EmbarcaTech - HBr
+Brasília, Abril de 2025
 
 Este projeto realiza uma contagem regressiva, de 9 até 0 segundos, com exibição em display OLED SSD1306 e monitor serial.  
 O acionamento é feito pelo botão A. Além disso, é registrado o número de vezes que o botão B foi pressionado dentro desse intervalo de 9 segundos.
