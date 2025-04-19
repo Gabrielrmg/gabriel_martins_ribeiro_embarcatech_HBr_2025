@@ -10,13 +10,25 @@
 Este projeto realiza uma contagem regressiva, de 9 até 0 segundos, com exibição em display OLED SSD1306 e monitor serial.  
 O acionamento é feito pelo botão A. Além disso, é registrado o número de vezes que o botão B foi pressionado dentro desse intervalo de 9 segundos.
 
-### 📸 Contagem finalizada (DONE)
+### 📸 Contagem finalizada (DONE !)
 
-<p align="center">
-  <img src="../../assets/img/countdown_display_done.jpg" alt="Contador zerado após a contagem regressiva" width="50%">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="../../assets/img/countdown_display_done.jpg" alt="Display OLED com contagem finalizada" width="40%">
+      <br>
+      <sub>Display OLED</sub>
+    </td>
+    <td align="center">
+      <img src="../../assets/img/countdown_display_serial.jpg" alt="Terminal serial mostrando DONE" width="40%">
+      <br>
+      <sub>Terminal Serial</sub>
+    </td>
+  </tr>
+</table>
 
-O display OLED mostra o estado final após o contador atingir zero. A mensagem "DONE!" é exibida juntamente com o ícone da ampulheta, indicando o fim da contagem regressiva.
+O display OLED mostra o estado final após o contador atingir zero. A mensagem `"DONE!"` é exibida juntamente com o ícone da ampulheta, indicando o fim da contagem regressiva.  
+Simultaneamente, a mensagem também é exibida no terminal serial, acompanhada do número de vezes que o botão B foi pressionado.
 
 ---
 
