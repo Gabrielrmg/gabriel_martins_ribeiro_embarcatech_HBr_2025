@@ -3,9 +3,10 @@
 <p align="center">
   <img src="assets/img/Gabriel.jpg" alt="Gabriel Martins Ribeiro" width="150">
 </p>
+**Autor:** Gabriel Martins Ribeiro<br>
+**Curso:** Residência Tecnológica em Sistemas Embarcados<br>
+**Instituição:** EmbarcaTech - HBr<br>
 
-**Autor:** Gabriel Martins Ribeiro  
-**Engenheiro Eletrônico - FCTE - UnB**  
 
 Bem-vindo ao projeto **BR SmartGuia**! Este projeto foi desenvolvido para fornecer assistência a pessoas com deficiência visual, utilizando tecnologia embarcada e sensores.
 
