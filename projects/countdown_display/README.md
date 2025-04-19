@@ -1,9 +1,9 @@
 # ⏱️ Countdown Display
-
 **Autor:** Gabriel Martins Ribeiro<br>
 **Curso:** Residência Tecnológica em Sistemas Embarcados<br>
 **Instituição:** EmbarcaTech - HBr<br>
 Brasília, Abril de 2025
+
 
 
 Este projeto realiza uma contagem regressiva, de 9 até 0 segundos, com exibição em display OLED SSD1306 e monitor serial.  
