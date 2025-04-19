@@ -17,6 +17,11 @@ O acionamento é feito pelo botão A. Além disso, é registrado o número de ve
   <img src="../../assets/img/countdown_display_serial.jpg" alt="Terminal serial com DONE" width="49%" style="display:inline-block;">
 </p>
 
+<p align="center">
+  <span style="display:inline-block; width:49%; text-align:center; margin-right:1%;">Display OLED</span>
+  <span style="display:inline-block; width:49%; text-align:center;">Terminal Serial</span>
+</p>
+
 O display OLED mostra o estado final após o contador atingir zero. A mensagem `"DONE!"` é exibida juntamente com o ícone da ampulheta, indicando o fim da contagem regressiva.  
 Simultaneamente, a mensagem também é exibida no terminal serial, acompanhada do número de vezes que o botão B foi pressionado.
 
