@@ -12,18 +12,16 @@ O acionamento é feito pelo botão A. Além disso, é registrado o número de ve
 
 ### 📸 Contagem finalizada (DONE !)
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="../../assets/img/countdown_display_done.jpg" alt="Display OLED" width="250px"><br>
-      <sub>Display OLED</sub>
-    </td>
-    <td align="center">
-      <img src="../../assets/img/countdown_display_serial.jpg" alt="Terminal Serial" width="250px"><br>
-      <sub>Terminal Serial</sub>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="../../assets/img/countdown_display_done.jpg" alt="Display OLED com contagem finalizada" width="49%" style="display:inline-block; margin-right:1%;">
+  <img src="../../assets/img/countdown_display_serial.jpg" alt="Terminal serial com DONE" width="49%" style="display:inline-block;">
+</p>
+
+<p align="center">
+  <span style="display:inline-block; width:49%; text-align:center; margin-right:1%;">Display OLED</span>
+  <span style="display:inline-block; width:49%; text-align:center;">Terminal Serial</span>
+</p>
 
 
 O display OLED mostra o estado final após o contador atingir zero. A mensagem `"DONE!"` é exibida juntamente com o ícone da ampulheta, indicando o fim da contagem regressiva.  
