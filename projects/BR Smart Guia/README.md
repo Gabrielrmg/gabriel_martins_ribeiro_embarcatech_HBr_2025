@@ -6,6 +6,8 @@
 **Autor:** Gabriel Martins Ribeiro<br>
 **Curso:** Residência Tecnológica em Sistemas Embarcados<br>
 **Instituição:** EmbarcaTech - HBr<br>
+Brasília, Abril de 2025
+
 
 
 Bem-vindo ao projeto **BR SmartGuia**! Este projeto foi desenvolvido para fornecer assistência a pessoas com deficiência visual, utilizando tecnologia embarcada e sensores.
