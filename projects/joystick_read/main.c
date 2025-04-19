@@ -1,7 +1,7 @@
 /**
- * @Author: Gabriel Martins Ribeiro
- * @Date: April 2025
- * @Description: This program reads analog and digital signals from a joystick module connected to the Raspberry Pi Pico W.
+ * Author: Gabriel Martins Ribeiro
+ * Date: April 2025
+ * Description: This program reads analog and digital signals from a joystick module connected to the Raspberry Pi Pico W.
  *        It displays the X and Y axis values, along with the button state, both on a serial terminal and on an OLED display.
  *
  * Hardware Components:
