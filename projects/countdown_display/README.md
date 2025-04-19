@@ -21,6 +21,7 @@ O acionamento é feito pelo botão A. Além disso, é registrado o número de ve
 </p>
 
 
+
 ### 📸 Contagem finalizada (DONE !)
 
 
