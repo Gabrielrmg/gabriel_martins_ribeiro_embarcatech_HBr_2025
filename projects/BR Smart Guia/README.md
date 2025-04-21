@@ -5,7 +5,9 @@
 </p>
 
 **Autor:** Gabriel Martins Ribeiro  
-**Engenheiro Eletrônico - FCTE - UnB**  
+ **Engenheiro Eletrônico - FCTE - UnB**  
+
+
 
 Bem-vindo ao projeto **BR SmartGuia**! Este projeto foi desenvolvido para fornecer assistência a pessoas com deficiência visual, utilizando tecnologia embarcada e sensores.
 
