@@ -6,11 +6,6 @@ Brasília, Abril de 2025
 
 Este projeto realiza a leitura dos eixos X e Y de um joystick analógico, além de detectar o acionamento do botão central. As informações são exibidas em tempo real tanto no terminal serial quanto em um display OLED 128x64 com controlador SSD1306 via protocolo I2C.
 
-<p align="center">
-  <img src="assets/img/joystick_display_button.jpg" alt="Leitura do botão pressionado" width="45%">
-</p>
-
-
 ---
 
 ## 🧩 Estrutura do Código
