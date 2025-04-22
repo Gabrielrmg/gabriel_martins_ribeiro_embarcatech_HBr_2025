@@ -8,7 +8,6 @@ Este projeto realiza a leitura dos eixos X e Y de um joystick analógico, além 
 
 <p align="center">
   <img src="assets/img/joystick_display_button.jpg" alt="Leitura do botão pressionado" width="45%">
-  <img src="assets/img/joystick_terminal_output.jpg" alt="Terminal com eixos x e y" width="45%">
 </p>
 
 
